@@ -1,0 +1,15 @@
+# Generated visual assets
+*.tmp
+*.part
+*.download
+.DS_Store
+Thumbs.db
+
+# Secrets and local state
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.log
+.cache/
