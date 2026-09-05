@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "state": "prepared",
+  "asset": "assets/2026/09/20260905-japon-tokio-asakusa-shibuya-facebook-instagram-square-f759dc9627.jpg",
+  "sha256": "09dfb36c0cac998c25ce0289d6c624d2cbd637552e50726b2fdcccb94d199315",
+  "bytes": 263156,
+  "format": "JPEG",
+  "width": 1080,
+  "height": 1080,
+  "channel": "instagram-square",
+  "brand_mode": "subliminal",
+  "brand_asset_sha256": "d54899b81427254c8809712857d4642911692bbdddf2b3113b77d410ae5eb09a",
+  "alt": "Contraste de Tokio entre Asakusa y el paisaje urbano contemporáneo de Shibuya, publicación de SAFE TOUR",
+  "generated_by": "fotografo",
+  "provider": "minimax-token-plan-direct",
+  "model": "image-01",
+  "public_urls": {
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260905-japon-tokio-asakusa-shibuya-facebook-instagram-square-f759dc9627.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260905-japon-tokio-asakusa-shibuya-facebook-instagram-square-f759dc9627.jpg"
+  }
+}
