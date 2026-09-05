@@ -20,7 +20,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260905-japon-tokio-asakusa-shibuya-facebook-20260907-v3-facebook-square-79a34360cc.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260905-japon-tokio-asakusa-shibuya-facebook-20260907-v3-facebook-square-79a34360cc.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/dbf9429c2e11597fb3bbb7062da90d480bae2597/assets/2026/09/20260905-japon-tokio-asakusa-shibuya-facebook-20260907-v3-facebook-square-79a34360cc.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@dbf9429c2e11597fb3bbb7062da90d480bae2597/assets/2026/09/20260905-japon-tokio-asakusa-shibuya-facebook-20260907-v3-facebook-square-79a34360cc.jpg"
+  },
+  "pinned_commit_sha": "dbf9429c2e11597fb3bbb7062da90d480bae2597"
 }
