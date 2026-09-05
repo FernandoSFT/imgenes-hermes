@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "state": "prepared",
+  "asset": "assets/2026/09/20260905-japon-tokio-asakusa-shibuya-instagram-20260907-v2-instagram-feed-91784e78c8.jpg",
+  "sha256": "2fa1d28e17ec1a8a672fcf40c60fc5fe9983d254697ff110923262fa1f6be247",
+  "bytes": 307792,
+  "format": "JPEG",
+  "width": 1080,
+  "height": 1350,
+  "channel": "instagram-feed",
+  "brand_mode": "subliminal",
+  "brand_asset_sha256": "d54899b81427254c8809712857d4642911692bbdddf2b3113b77d410ae5eb09a",
+  "text_overlay": {
+    "title": "TOKIO",
+    "subtitle": "Tradición y futuro en un mismo día",
+    "position": "bottom-left"
+  },
+  "alt": "Tokio: detalles arquitectónicos de Asakusa y Shibuya sin presencia humana ni cartelería, publicación informativa de SAFE TOUR para viajeros, sin precio",
+  "generated_by": "fotografo",
+  "provider": "minimax-token-plan-direct",
+  "model": "image-01",
+  "public_urls": {
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/39c0eef9946ea232afcf5a04e09ba460451b1981/assets/2026/09/20260905-japon-tokio-asakusa-shibuya-instagram-20260907-v2-instagram-feed-91784e78c8.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@39c0eef9946ea232afcf5a04e09ba460451b1981/assets/2026/09/20260905-japon-tokio-asakusa-shibuya-instagram-20260907-v2-instagram-feed-91784e78c8.jpg"
+  },
+  "pinned_commit_sha": "39c0eef9946ea232afcf5a04e09ba460451b1981"
+}
