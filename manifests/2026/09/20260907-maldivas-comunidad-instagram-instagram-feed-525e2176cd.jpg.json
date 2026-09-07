@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-maldivas-comunidad-instagram-instagram-feed-525e2176cd.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-maldivas-comunidad-instagram-instagram-feed-525e2176cd.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/3aa260b23c5cbd4ef6f7238be405bffbd48e262d/assets/2026/09/20260907-maldivas-comunidad-instagram-instagram-feed-525e2176cd.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@3aa260b23c5cbd4ef6f7238be405bffbd48e262d/assets/2026/09/20260907-maldivas-comunidad-instagram-instagram-feed-525e2176cd.jpg"
+  },
+  "pinned_commit_sha": "3aa260b23c5cbd4ef6f7238be405bffbd48e262d"
 }
