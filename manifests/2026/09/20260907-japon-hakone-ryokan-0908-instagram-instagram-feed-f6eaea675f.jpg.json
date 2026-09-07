@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "state": "prepared",
+  "asset": "assets/2026/09/20260907-japon-hakone-ryokan-0908-instagram-instagram-feed-f6eaea675f.jpg",
+  "sha256": "01ec16d62aa6455a4dc6871a578cb231481bdb10848ea464dd77f594b8f0d812",
+  "bytes": 402526,
+  "format": "JPEG",
+  "width": 1080,
+  "height": 1350,
+  "channel": "instagram-feed",
+  "brand_mode": "subliminal",
+  "brand_asset_sha256": "d54899b81427254c8809712857d4642911692bbdddf2b3113b77d410ae5eb09a",
+  "text_overlay": null,
+  "alt": "Imagen editorial de Japón para SAFE TOUR.",
+  "generated_by": "fotografo",
+  "provider": "minimax-token-plan-direct",
+  "model": "image-01",
+  "public_urls": {
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-hakone-ryokan-0908-instagram-instagram-feed-f6eaea675f.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-hakone-ryokan-0908-instagram-instagram-feed-f6eaea675f.jpg"
+  }
+}
