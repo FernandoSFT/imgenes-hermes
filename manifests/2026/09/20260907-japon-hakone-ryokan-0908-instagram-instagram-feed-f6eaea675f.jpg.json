@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-hakone-ryokan-0908-instagram-instagram-feed-f6eaea675f.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-hakone-ryokan-0908-instagram-instagram-feed-f6eaea675f.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/71e08cd2bd230d65db3a45e4e40ec7f0168bc3c3/assets/2026/09/20260907-japon-hakone-ryokan-0908-instagram-instagram-feed-f6eaea675f.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@71e08cd2bd230d65db3a45e4e40ec7f0168bc3c3/assets/2026/09/20260907-japon-hakone-ryokan-0908-instagram-instagram-feed-f6eaea675f.jpg"
+  },
+  "pinned_commit_sha": "71e08cd2bd230d65db3a45e4e40ec7f0168bc3c3"
 }
