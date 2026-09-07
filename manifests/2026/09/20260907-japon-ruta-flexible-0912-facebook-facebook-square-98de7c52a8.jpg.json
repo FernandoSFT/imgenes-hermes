@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-ruta-flexible-0912-facebook-facebook-square-98de7c52a8.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-ruta-flexible-0912-facebook-facebook-square-98de7c52a8.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/b10865e6a6eba32513f131e8fa4c5cc42ed76e07/assets/2026/09/20260907-japon-ruta-flexible-0912-facebook-facebook-square-98de7c52a8.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@b10865e6a6eba32513f131e8fa4c5cc42ed76e07/assets/2026/09/20260907-japon-ruta-flexible-0912-facebook-facebook-square-98de7c52a8.jpg"
+  },
+  "pinned_commit_sha": "b10865e6a6eba32513f131e8fa4c5cc42ed76e07"
 }
