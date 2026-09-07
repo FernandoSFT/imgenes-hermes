@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-maldivas-inspiracion-facebook-facebook-square-63a9b54e59.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-maldivas-inspiracion-facebook-facebook-square-63a9b54e59.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/1ed3e8231d1e6c79dca0337baf8cf8b87abdcff1/assets/2026/09/20260907-maldivas-inspiracion-facebook-facebook-square-63a9b54e59.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@1ed3e8231d1e6c79dca0337baf8cf8b87abdcff1/assets/2026/09/20260907-maldivas-inspiracion-facebook-facebook-square-63a9b54e59.jpg"
+  },
+  "pinned_commit_sha": "1ed3e8231d1e6c79dca0337baf8cf8b87abdcff1"
 }
