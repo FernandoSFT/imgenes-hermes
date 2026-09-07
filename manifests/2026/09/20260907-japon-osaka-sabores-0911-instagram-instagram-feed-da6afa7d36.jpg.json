@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-osaka-sabores-0911-instagram-instagram-feed-da6afa7d36.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-osaka-sabores-0911-instagram-instagram-feed-da6afa7d36.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/888cfb669993f45496bc55c9fe07356152fe3e56/assets/2026/09/20260907-japon-osaka-sabores-0911-instagram-instagram-feed-da6afa7d36.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@888cfb669993f45496bc55c9fe07356152fe3e56/assets/2026/09/20260907-japon-osaka-sabores-0911-instagram-instagram-feed-da6afa7d36.jpg"
+  },
+  "pinned_commit_sha": "888cfb669993f45496bc55c9fe07356152fe3e56"
 }
