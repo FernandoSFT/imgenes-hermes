@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-maldivas-itinerario-instagram-instagram-feed-c6577b40ce.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-maldivas-itinerario-instagram-instagram-feed-c6577b40ce.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/07f37a8e9a05f2e7ecf16087ef0fd082473d416f/assets/2026/09/20260907-maldivas-itinerario-instagram-instagram-feed-c6577b40ce.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@07f37a8e9a05f2e7ecf16087ef0fd082473d416f/assets/2026/09/20260907-maldivas-itinerario-instagram-instagram-feed-c6577b40ce.jpg"
+  },
+  "pinned_commit_sha": "07f37a8e9a05f2e7ecf16087ef0fd082473d416f"
 }
