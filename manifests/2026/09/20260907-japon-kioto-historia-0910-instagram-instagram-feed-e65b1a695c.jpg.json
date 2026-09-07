@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "state": "prepared",
+  "asset": "assets/2026/09/20260907-japon-kioto-historia-0910-instagram-instagram-feed-e65b1a695c.jpg",
+  "sha256": "2dd7540d1f08ce956e52de499b70f9e2741948df98e84fe032b51f7882a6a64c",
+  "bytes": 499097,
+  "format": "JPEG",
+  "width": 1080,
+  "height": 1350,
+  "channel": "instagram-feed",
+  "brand_mode": "subliminal",
+  "brand_asset_sha256": "d54899b81427254c8809712857d4642911692bbdddf2b3113b77d410ae5eb09a",
+  "text_overlay": null,
+  "alt": "Imagen editorial de Japón para SAFE TOUR.",
+  "generated_by": "fotografo",
+  "provider": "minimax-token-plan-direct",
+  "model": "image-01",
+  "public_urls": {
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-kioto-historia-0910-instagram-instagram-feed-e65b1a695c.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-kioto-historia-0910-instagram-instagram-feed-e65b1a695c.jpg"
+  }
+}
