@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-takayama-alpes-0909-facebook-facebook-square-58ea3967f0.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-takayama-alpes-0909-facebook-facebook-square-58ea3967f0.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/638155061b74a57a5fbd774112cb80fe90ac8ab2/assets/2026/09/20260907-japon-takayama-alpes-0909-facebook-facebook-square-58ea3967f0.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@638155061b74a57a5fbd774112cb80fe90ac8ab2/assets/2026/09/20260907-japon-takayama-alpes-0909-facebook-facebook-square-58ea3967f0.jpg"
+  },
+  "pinned_commit_sha": "638155061b74a57a5fbd774112cb80fe90ac8ab2"
 }
