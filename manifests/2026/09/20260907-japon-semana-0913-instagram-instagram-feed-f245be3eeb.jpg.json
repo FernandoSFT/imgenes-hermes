@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-semana-0913-instagram-instagram-feed-f245be3eeb.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-semana-0913-instagram-instagram-feed-f245be3eeb.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/cb7ac5002bd418c978f6ca3fcc3ef92aa6da51fb/assets/2026/09/20260907-japon-semana-0913-instagram-instagram-feed-f245be3eeb.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@cb7ac5002bd418c978f6ca3fcc3ef92aa6da51fb/assets/2026/09/20260907-japon-semana-0913-instagram-instagram-feed-f245be3eeb.jpg"
+  },
+  "pinned_commit_sha": "cb7ac5002bd418c978f6ca3fcc3ef92aa6da51fb"
 }
