@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "state": "prepared",
+  "asset": "assets/2026/09/20260907-japon-semana-0913-instagram-instagram-feed-f245be3eeb.jpg",
+  "sha256": "2af8ee6177258217d5ac4557391755b65fca9e472e4d6ade83af99ac6baef8fb",
+  "bytes": 514090,
+  "format": "JPEG",
+  "width": 1080,
+  "height": 1350,
+  "channel": "instagram-feed",
+  "brand_mode": "subliminal",
+  "brand_asset_sha256": "d54899b81427254c8809712857d4642911692bbdddf2b3113b77d410ae5eb09a",
+  "text_overlay": null,
+  "alt": "Imagen editorial de Japón para SAFE TOUR.",
+  "generated_by": "fotografo",
+  "provider": "minimax-token-plan-direct",
+  "model": "image-01",
+  "public_urls": {
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-semana-0913-instagram-instagram-feed-f245be3eeb.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-semana-0913-instagram-instagram-feed-f245be3eeb.jpg"
+  }
+}
