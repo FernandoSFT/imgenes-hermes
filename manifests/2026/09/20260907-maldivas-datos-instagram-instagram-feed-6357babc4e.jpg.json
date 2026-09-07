@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "state": "prepared",
+  "asset": "assets/2026/09/20260907-maldivas-datos-instagram-instagram-feed-6357babc4e.jpg",
+  "sha256": "5f43fd27d2602b90b2265e42dde6661475f7a11d58bad135c63a2b47a42aace7",
+  "bytes": 466906,
+  "format": "JPEG",
+  "width": 1080,
+  "height": 1350,
+  "channel": "instagram-feed",
+  "brand_mode": "subliminal",
+  "brand_asset_sha256": "d54899b81427254c8809712857d4642911692bbdddf2b3113b77d410ae5eb09a",
+  "text_overlay": null,
+  "alt": "Maldivas: inspiración y viajes personalizados con SAFE TOUR.",
+  "generated_by": "fotografo",
+  "provider": "minimax-token-plan-direct",
+  "model": "image-01",
+  "public_urls": {
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-maldivas-datos-instagram-instagram-feed-6357babc4e.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-maldivas-datos-instagram-instagram-feed-6357babc4e.jpg"
+  }
+}
