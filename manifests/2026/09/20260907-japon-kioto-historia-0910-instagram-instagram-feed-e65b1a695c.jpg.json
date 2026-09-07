@@ -16,7 +16,8 @@
   "provider": "minimax-token-plan-direct",
   "model": "image-01",
   "public_urls": {
-    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/main/assets/2026/09/20260907-japon-kioto-historia-0910-instagram-instagram-feed-e65b1a695c.jpg",
-    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@main/assets/2026/09/20260907-japon-kioto-historia-0910-instagram-instagram-feed-e65b1a695c.jpg"
-  }
+    "raw": "https://raw.githubusercontent.com/FernandoSFT/imgenes-hermes/6b0f7684fe14cfe7cafd105f49ea64e9a687fc54/assets/2026/09/20260907-japon-kioto-historia-0910-instagram-instagram-feed-e65b1a695c.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/FernandoSFT/imgenes-hermes@6b0f7684fe14cfe7cafd105f49ea64e9a687fc54/assets/2026/09/20260907-japon-kioto-historia-0910-instagram-instagram-feed-e65b1a695c.jpg"
+  },
+  "pinned_commit_sha": "6b0f7684fe14cfe7cafd105f49ea64e9a687fc54"
 }
